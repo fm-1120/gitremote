@@ -1,7 +1,5 @@
 name?
-<<<<<<< HEAD
-D
-=======
+C
 B
 A
->>>>>>> 3adbc94a36b4a30b63f013585f68b6dd49dab395
+
